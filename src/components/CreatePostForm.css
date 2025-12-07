@@ -1,0 +1,5 @@
+.create-form { border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fff; margin-bottom: 16px; }
+.field { display:flex; flex-direction:column; margin-bottom:8px; }
+.field label { font-weight:600; margin-bottom:4px; font-size:13px; }
+.field input, .field textarea { padding:8px; border-radius:6px; border:1px solid #ccc; font-size:14px; }
+.message { margin-top:8px; color: green; }
