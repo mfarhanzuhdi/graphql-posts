@@ -1,0 +1,5 @@
+.author-card { border:1px solid #ddd; padding:12px; border-radius:8px; background:#fff; margin-top:12px; }
+.comments { margin-top:12px; }
+.comment { border-top:1px dashed #ddd; padding:8px 0; }
+.comment-name { font-weight:700; margin:0; }
+.comment-email { font-weight:400; color:#666; font-size:12px; margin-left:6px; }
